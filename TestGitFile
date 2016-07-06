@@ -1,3 +1,7 @@
 This will be where I test my git skills.
 
 See?  I can edit stuff.
+
+How do I keep track of things?  Or do I just commit to a specific branch every time I change something?  Can I make edits in the Xcode editor from the command line? Do I keep using a bunch of different folders?  Kind of icky.
+
+Apparently your branches are affiliated with a given git folder in a given folder, so you can’t keep them in different folders.  Maybe continue making edits in random folders and then copy it over to that folder when you want to commit?  Seems weird.
